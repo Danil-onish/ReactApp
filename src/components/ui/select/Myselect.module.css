@@ -1,0 +1,33 @@
+.mySelect{
+   padding: 5px 5px;
+   margin: 5px 0;
+   border:  1px solid teal;
+}
+
+/* .mySelect {
+   display: flex;
+   gap: 30px;
+   
+   margin: 5px 0;
+   list-style: none;
+ }
+ 
+ .mySelect li{
+    padding: 10px 0px;
+    cursor: pointer;
+ }
+ 
+ .mySelect input{
+    position: absolute;
+    appearance: none;
+ }
+ 
+ .mySelect label{
+    padding: 5px 5px;
+    cursor: pointer;
+ }
+ 
+ .mySelect input:checked+label{
+    border: 1px solid teal;
+    border-radius: 7%;
+ } */
